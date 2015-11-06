@@ -8,6 +8,17 @@ body {
 
 header {
 	}
+.background{
+	
+		background-image:url(../images/background.jpg); 
+		background-size:100%;
+		background-repeat:no-repeat;
+		height: 140px;
+		display:block;
+		padding:0 !important;
+		margin:0;
+		float: none;
+	}
 
 /*-----HEADER SOCIAL ICONS-----*/
 	header ul.social {
@@ -21,7 +32,7 @@ header {
 	}
 	ul.social li a {
 		display:block;
-		background-image:url(../images/icons2.png); 
+		background-image:url(../images/icons.png); 
 		width:60px;
 		height: 60px;list-style-type: none;
 	}
